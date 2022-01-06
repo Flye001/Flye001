@@ -1,5 +1,3 @@
-![GitHubHeader](https://avatars.githubusercontent.com/u/20192757?v=4)
-
 <h1>Github Stats</h1>
 
 <p align='center'>
